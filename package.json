@@ -1,0 +1,16 @@
+{
+    "name": "chatmongo",
+    "version": "1.0.0",
+    "description": "sample chat app using socket io and mongodb",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongodb": "^3.6.3",
+        "socket.io": "^3.0.3"
+    }
+}
